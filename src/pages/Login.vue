@@ -1,7 +1,5 @@
 <template>
-  
     <login :isLogin="true"></login>
-  
 </template>
 
 <script>

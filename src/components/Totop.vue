@@ -3,7 +3,7 @@
     <v-btn fixed 
       bottom right 
       fab dark 
-      color="teal"
+      color="blue"
       v-scroll="onScroll"
       v-show="isShow"
       @click="toTop">
